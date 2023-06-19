@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi! &#128075;</h1>
 <br>
 
