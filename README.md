@@ -8,7 +8,7 @@
 
   <picture height="150em">
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa548&layout=compact&langs_count=8&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa548&layout=compact&langs_count=8&theme=vision-friendly-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
