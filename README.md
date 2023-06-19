@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**Rafa548/Rafa548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! &#128075;</h1>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Rafa548&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Rafa548&show_icons=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rafa548&show_icons=true&include_all_commits=true&count_private=true" />
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <picture height="150em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa548&layout=compact&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa548&layout=compact&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa548&layout=compact&langs_count=8" />
+  </picture>
+</div>
+  
+<div align="center">
+  <br>
+  Check my activity &#128071;
+</div>
